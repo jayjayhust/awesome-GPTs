@@ -12,6 +12,7 @@
 | <a href="https://github.com/nomic-ai/gpt4all"> GPT4All </a> | <a href="https://github.com/nomic-ai/gpt4all/stargazers"><img src="https://img.shields.io/github/stars/nomic-ai/gpt4all" alt="GitHub stars"></a> | Nomic AI |
 | <a href="https://github.com/lm-sys/FastChat"> vicuna </a> | <a href="https://github.com/lm-sys/FastChat/stargazers"><img src="https://img.shields.io/github/stars/lm-sys/FastChat" alt="GitHub stars"></a> | UC伯克利、CMU、斯坦福、UCSD、MBZUAI |
 | <a href="https://github.com/OptimalScale/LMFlow"> LMFlow </a> | <a href="https://github.com/OptimalScale/LMFlow/stargazers"><img src="https://img.shields.io/github/stars/OptimalScale/LMFlow" alt="GitHub stars"></a> | 香港科技大学统计和机器学习实验室 |
+| <a href="https://github.com/THUDM/ChatGLM-6B"> ChatGLM-6B </a> | <a href="https://github.com/THUDM/ChatGLM-6B/stargazers"><img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B" alt="GitHub stars"></a> | Knowledge Engineering Group (KEG) & Data Mining at Tsinghua University |
 
 ### ChatGPT的应用项目集锦
 | 项目名称 | stars | 主项目方 |
