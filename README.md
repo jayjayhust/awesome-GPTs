@@ -15,6 +15,6 @@
 | <a href="https://github.com/THUDM/ChatGLM-6B"> ChatGLM-6B </a> | <a href="https://github.com/THUDM/ChatGLM-6B/stargazers"><img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B" alt="GitHub stars"></a> | Knowledge Engineering Group (KEG) & Data Mining at Tsinghua University |
 
 ### ChatGPT的应用项目集锦
-| 项目名称 | stars | 主项目方 |
-| :----- | :----- | :----- |
-| <a href="https://github.com/microsoft/JARVIS"> JARVIS </a> | <a href="https://github.com/microsoft/JARVIS/stargazers"><img src="https://img.shields.io/github/stars/microsoft/JARVIS" alt="GitHub stars"></a> | Microsoft |
+| 项目名称 | stars | 项目描述 | 主项目方 |
+| :----- | :----- | :----- | :----- |
+| <a href="https://github.com/microsoft/JARVIS"> JARVIS </a> | <a href="https://github.com/microsoft/JARVIS/stargazers"><img src="https://img.shields.io/github/stars/microsoft/JARVIS" alt="GitHub stars"></a> | a system to connect LLMs with ML community | Microsoft |
