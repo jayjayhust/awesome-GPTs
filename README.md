@@ -4,8 +4,8 @@
 
 ### ChatGPT的开源平替项目集锦
 
-| 项目名称 | stars |
-| :----- | :----- |
+| 项目名称 | stars | 主项目方 |
+| :----- | :----- | :----- |
 | Stanford Alpac | <a href="https://github.com/tatsu-lab/stanford_alpaca/stargazers"><img src="https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca" alt="GitHub stars"></a> | 斯坦福大学 |
 | 骆驼(Luotuo) | <a href="https://github.com/LC1332/Luotuo-Chinese-LLM/stargazers"><img src="https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM" alt="GitHub stars"></a> | 华中师范大学、商汤科技 |
 | Colossia-AI | <a href="https://github.com/hpcaitech/ColossalAI/stargazers"><img src="https://img.shields.io/github/stars/hpcaitech/ColossalAI" alt="GitHub stars"></a> | 新加坡国立大学 |
