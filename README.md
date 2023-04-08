@@ -1,5 +1,5 @@
 <h1 align="center">
-  awesome open-source GPTs
+  awesome open-source GPTs and GPT-based applications
 </h1>
 
 ### ChatGPT的开源平替项目集锦
