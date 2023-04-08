@@ -16,4 +16,4 @@
 ### ChatGPT的应用项目集锦
 | 项目名称 | stars | 主项目方 |
 | :----- | :----- | :----- |
-| <a href="https://github.com/microsoft/JARVIS"> LMFlow </a> | <a href="https://github.com/microsoft/JARVIS/stargazers"><img src="https://img.shields.io/github/stars/microsoft/JARVIS" alt="GitHub stars"></a> | Microsoft |
+| <a href="https://github.com/microsoft/JARVIS"> JARVIS </a> | <a href="https://github.com/microsoft/JARVIS/stargazers"><img src="https://img.shields.io/github/stars/microsoft/JARVIS" alt="GitHub stars"></a> | Microsoft |
