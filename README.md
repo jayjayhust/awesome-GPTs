@@ -24,4 +24,4 @@
 | <a href="https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat"> DeepSpeed-Chat </a> | <a href="https://github.com/microsoft/DeepSpeedExamples/stargazers"><img src="https://img.shields.io/github/stars/microsoft/DeepSpeedExamples" alt="GitHub stars"></a> | Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales. (See the following table for the E2E time breakdown for training a 1.3 billion parameter ChatGPT model via DeepSpeed-Chat on a single commodity NVIDIA A6000 GPU with 48GB memory, in 2.2hr.) | Microsoft |
 
 ### 各大公司LLM模型汇总
-google的LaMDA（137B）和PaLM（540B），DeepMind的Gopher（280B）、BigScience的BLOOM（175B）、Meta的OPT（175B）、英伟达的TNLG v2（530B）以及清华大学的GLM-130B（130B）、OpenAI的GTP-1(0.117B)/GPT-2(1.5B)/GPT-3(175B)/GPT-3.5(175B)/GPT-4(未公开，猜测为100 x 1000B)。
+Google的LaMDA（137B）和PaLM（540B），DeepMind的Gopher（280B）、BigScience的BLOOM（175B）、Meta的OPT（175B）、Nvidia的TNLG v2（530B）以及清华大学的GLM-130B（130B）、OpenAI的GTP-1(0.117B)/GPT-2(1.5B)/GPT-3(175B)/GPT-3.5(175B)/GPT-4(未公开，猜测为100 x 1000B)。
