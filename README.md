@@ -6,7 +6,7 @@
 
 | 项目名称 | stars | 主项目方 | 备注 |
 | :----- | :----- | :----- | :----- |
-| <a href="https://github.com/tatsu-lab/stanford_alpaca"> Stanford Alpaca </a> | <img src="https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca" alt="GitHub stars"></a> | 斯坦福大学 |  |
+| <a href="https://github.com/tatsu-lab/stanford_alpaca"> Stanford Alpaca </a> | <a href="https://github.com/tatsu-lab/stanford_alpaca/stargazers"><img src="https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca" alt="GitHub stars"></a> | 斯坦福大学 |  |
 | <a href="https://github.com/LC1332/Luotuo-Chinese-LLM"> 骆驼(Luotuo) </a> | <a href="https://github.com/LC1332/Luotuo-Chinese-LLM/stargazers"><img src="https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM" alt="GitHub stars"></a> | 华中师范大学、商汤科技 | 项目方购买autoDL上的GPU租赁服务(A100)来训练模型。（我们仍然需要后续训练10个以上的模型，所以我们期望2万左右的赞助总额）。附有相关开源项目列表。 |
 | <a href="https://github.com/hpcaitech/ColossalAI"> Colossia-AI </a> | <a href="https://github.com/hpcaitech/ColossalAI/stargazers"><img src="https://img.shields.io/github/stars/hpcaitech/ColossalAI" alt="GitHub stars"></a> | 新加坡国立大学 | A mini demo training process requires only 1.62GB of GPU memory (any consumer-grade GPU). Increase the capacity of the fine-tuning model by up to 3.7 times on a single GPU. |
 | <a href="https://github.com/nomic-ai/gpt4all"> GPT4All </a> | <a href="https://github.com/nomic-ai/gpt4all/stargazers"><img src="https://img.shields.io/github/stars/nomic-ai/gpt4all" alt="GitHub stars"></a> | Nomic AI | (IN PROGRESS) Build easy custom training scripts to allow users to fine tune models. |
