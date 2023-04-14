@@ -25,3 +25,8 @@
 
 ### 各大公司LLM模型汇总
 Google的LaMDA（137B）和PaLM（540B），DeepMind的Gopher（280B）、BigScience的BLOOM（175B）、Meta的OPT（175B）、Nvidia的TNLG v2（530B）以及清华大学的GLM-130B（130B）、OpenAI的GTP-1(0.117B)/GPT-2(1.5B)/GPT-3(175B)/GPT-3.5(175B)/GPT-4(未公开，猜测为100 x 1000B)、OpenAI开放的finetune模型Ada(0.35B)/Babbage(1.3B)/Curie(6.7B)/Davinci(175B)。
+
+### 其他相关开源项目
+| 项目名称 | stars | 项目描述 | 主项目方 |
+| :----- | :----- | :----- | :----- |
+| <a href="https://github.com/TheRamU/Fay"> Fay </a> | <a href="https://github.com/TheRamU/Fay/stargazers"><img src="https://img.shields.io/github/stars/TheRamU/Fay" alt="GitHub stars"></a> | 数字人 | TheRamU |
