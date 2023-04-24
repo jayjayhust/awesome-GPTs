@@ -15,6 +15,8 @@
 | <a href="https://github.com/THUDM/ChatGLM-6B"> ChatGLM-6B </a> | <a href="https://github.com/THUDM/ChatGLM-6B/stargazers"><img src="https://img.shields.io/github/stars/THUDM/ChatGLM-6B" alt="GitHub stars"></a> | Knowledge Engineering Group (KEG) & Data Mining at Tsinghua University | 结合模型量化技术，用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存）。为了方便下游开发者针对自己的应用场景定制模型，我们同时实现了基于 P-Tuning v2 的高效参数微调方法 (使用指南) ，INT4 量化级别下最低只需 7GB 显存即可启动微调。 |
 | <a href="https://github.com/databrickslabs/dolly"> Dolly </a> | <a href="https://github.com/databrickslabs/dolly/stargazers"><img src="https://img.shields.io/github/stars/databrickslabs/dolly" alt="GitHub stars"></a> | Databricks | A10 GPUs(The 6.9B and 2.8B param models should work as-is). V100 GPUs(When using V100s (ex: p3.2xlarge, 1 x V100 16GB, NC6s_v3), in all cases, set torch_dtype=torch.float16 in pipeline() instead). |
 | <a href="https://github.com/Vision-CAIR/MiniGPT-4"> Mini-GPT </a> | <a href="https://github.com/Vision-CAIR/MiniGPT-4/stargazers"><img src="https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4" alt="GitHub stars"></a> | Vision CAIR Group, KAUST, supported by Mohamed Elhoseiny | To save GPU memory, Vicuna loads as 8 bit by default, with a beam search width of 1. This configuration requires about 23G GPU memory for Vicuna 13B and 11.5G GPU memory for Vicuna 7B. |
+| <a href="https://github.com/OpenLMLab/MOSS"> MOSS </a> | <a href="https://github.com/OpenLMLab/MOSS/stargazers"><img src="https://img.shields.io/github/stars/OpenLMLab/MOSS" alt="GitHub stars"></a> | Fudan University | MOSS是一个支持中英双语和多种插件的开源对话语言模型，moss-moon系列模型具有160亿参数，在FP16精度下可在单张A100/A800或两张3090显卡运行，在INT4/8精度下可在单张3090显卡运行。|
+
 
 ### ChatGPT的应用项目集锦
 | 项目名称 | stars | 项目描述 | 主项目方 |
